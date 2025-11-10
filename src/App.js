@@ -1,5 +1,5 @@
-import React, { useState, useRef, useEffect } from "react";
-import { Send, BookOpen, Users, Star, MessageCircle, X } from "lucide-react";
+import{ useState } from "react";
+import {  BookOpen, Users, Star, MessageCircle } from "lucide-react";
 import "./App.css";
 import ChatBox from "./components/ChatBox";
 
